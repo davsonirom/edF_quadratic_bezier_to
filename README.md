@@ -65,7 +65,7 @@ Já o segundo ponto final (endPoint) da na reta coloquei no final de X e Y na po
 
 
 ## <span style="color:rgb(201,45,146)">Resultado</span>
-![Estudo_Mockup](https://user-images.githubusercontent.com/37612961/212330577-07aa6c3a-4d15-4ebc-8ce0-d743c214f823.png)
+![Estudo_Mockup](https://user-images.githubusercontent.com/37612961/225023278-ab46ef8b-65c5-4832-94d0-1f7d89a24dfa.png)
 
 -------
 ## Instalação
